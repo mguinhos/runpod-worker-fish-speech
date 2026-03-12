@@ -79,6 +79,8 @@ docker run --gpus all fish-worker
 
 ### Deploy to RunPod
 
+[![Runpod](https://api.runpod.io/badge/mguinhos/runpod-worker-fish-speech)](https://hub.runpod.io/mguinhos/runpod-worker-fish-speech)
+
 1. Push the image to a container registry (Docker Hub, GHCR, etc.)
 2. Create a new **Serverless Endpoint** on RunPod
 3. Set the container image to your pushed image
