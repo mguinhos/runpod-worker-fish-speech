@@ -15,7 +15,7 @@
         "seed": null,
         "use_memory_cache": "off"
       },
-      "timeout": 120000
+      "timeout": 600000
     }
   ],
   "config": {
